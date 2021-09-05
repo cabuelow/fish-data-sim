@@ -10,4 +10,4 @@ This repository provides code to simulate fish population abundance under differ
   - This script simulates trends in fish population abundance under different monitoring scenarios
   - Power to detect a trend and bias of the estimated trend under each scenario is calculated
 
-
+Code for dat-sim-trends.R was informed by [cbrown5's](https://github.com/cbrown5) [blog](https://www.seascapemodels.org/rstats/2018/10/16/understanding-the-glm-link.html)
